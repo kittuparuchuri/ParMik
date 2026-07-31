@@ -1,4 +1,4 @@
-ParMik Technologies — Summary
+ParMik Technologies :: Summary
 ParMik Technologies is a digital enablement partner, focused on helping businesses accelerate digital transformation through  AI-powered solutions, and technology services. They take a talent-first approach, combining specialized projects, and outsourcing tailored to client needs.
 
 Key differentiators:
@@ -8,11 +8,10 @@ Deep domain expertise across aerospace, financial services, healthcare, retail, 
 500+ STEM professionals available
 
 Core Services:
-AI Solutions — End-to-end GenAI advisory, development, and deployment; claims 15–20% time savings and a 15% innovation uplift
-Customer Experience — Design/engineering of customer-centric platforms (web, mobile, omnichannel)
-Digital & Product Engineering — Building scalable digital products using modern architecture, DevOps, and agile practices
-Cloud & Infrastructure — Strategy, migration, and modernization across AWS, Azure, and Google Cloud
-Talent Solutions & IT Staffing — Filling leadership roles or full project teams, fast
+AI Solutions- End-to-end GenAI advisory, development, and deployment; claims 15–20% time savings and a 15% innovation uplift
+Customer Experience- Design/engineering of customer-centric platforms (web, mobile, omnichannel)
+Digital & Product Engineering- Building scalable digital products using modern architecture, DevOps, and agile practices
+Cloud & Infrastructure- Strategy, migration, and modernization across AWS, Azure, and Google Cloud
 
 Engagement Models
 Managed Solutions — end-to-end program ownership, outcomes-based delivery
